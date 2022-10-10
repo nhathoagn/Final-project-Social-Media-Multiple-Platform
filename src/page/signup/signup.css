@@ -1,0 +1,41 @@
+.signup-content{
+  /* display: block;
+  justify-content: center; */
+}
+.signup-title{
+    text-align: center;
+}
+.container-signup-facebook{
+    display: flex;
+    justify-content: center;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: gray;
+}
+.container-signup-google{
+    display: flex;
+    justify-content: center;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: gray;
+}
+.facebook{
+    /* margin-block-start: 0; */
+}
+.signup-facebook{
+    width: 30%;
+}
+.signup-google{
+    width: 30%;
+}
+.icon-facebook{
+    margin-top: 3%;
+}
+.icon-google{
+   margin-top: 3%;
+}
+.container-signup-Oauth2{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
